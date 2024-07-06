@@ -1,0 +1,129 @@
+{
+    "meta": {
+      "theme": "kendall"
+    },
+    "basics": {
+      "name": "Cynthia Wahome",
+      "label": "Senior Software Engineer",
+      "image": "https://avatars.githubusercontent.com/u/160864573?s=96&v=4",
+      "email": "cynthiawahome254@gmail.com",
+      "url": "https://cynthiawahome.com/",
+      "summary": "Hello, I'm Cynthia Wahome a full stack engineer with over a decade of experience building software.",
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "CynthiaWahome",
+          "url": "https://github.com/CynthiaWahome/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Manifesting Inc.",
+        "location": "Huntington Beach, CA",
+        "description": "A solar software company",
+        "position": "Senior Software Engineer",
+        "url": "https://manifestingisallowed.com/",
+        "startDate": "2020-02",
+        "summary": "Developing new APIs with NestJS, Typescript, GraphQL, and PostgreSQL. ",
+        "highlights": [
+          "A resume can also be a blueprint for where you are determined to go",
+          "Build APIs with NestJS, Typescript, GraphQL, and PostgreSQL."
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Reject Financebill",
+        "position": "Twitter Space Keyboard Warrior",
+        "url": "https://rejectfinancebill.co.ke/",
+        "startDate": "2024-05",
+        "endDate": "2024-07",
+        "summary": "We had no leader yet our voice was heard",
+        "highlights": [
+          "Support and develop the open-source Ubuntu Touch operating system."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "The School of Hard Knocks",
+        "url": "https://www.characterdevelopment.edu/",
+        "area": "The art of Surviving Adulthood ",
+        "studyType": "Bachelor of Science",
+        "startDate": "2020-09",
+        "endDate": "2023-05",
+        "score": "3.85",
+        "courses": []
+      }
+    ],
+    "skills": [
+      {
+        "name": "Backend Development",
+        "keywords": [
+          "Python",
+          "Java",
+          "PLP",
+          "Django",
+          "Flask",
+          "MySQL"
+        ]
+      },
+      {
+        "name": "Frontend Development",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascrpt",
+          "Bootstrap",
+          "Vue.js"
+        ]
+      },
+      {
+        "name": "Version Control & DevOps",
+        "keywords": [
+          "Git",
+          "Github Action",
+          "Terraform",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Sheng",
+        "fluency": "Intermediate "
+      }
+    ],
+    "interests": [
+      {
+        "name": "Board Games",
+        "keywords": [
+          "Terraforming Mars",
+          "Ark Nova",
+          "Gaia Project",
+          "Underwater Cities"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Occupy Parliament",
+        "description": "The official app for briefing Gen Z's",
+        "highlights": [
+          "We had no leader yet our voice was heard"
+        ],
+        "startDate": "2024-06",
+        "url": "https://occupyparliament.io/",
+        "roles": [
+          "Lead Developer"
+        ],
+        "type": "application"
+      }
+    ]
+  }
